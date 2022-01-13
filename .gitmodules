@@ -1,6 +1,3 @@
-[submodules "submodules"]
-        path="submodules-test/"
-        url=https://github.com/jp2435/submodules.git
 [submodule "submodules"]
 	path = submodules
 	url = https://github.com/jp2435/submodules
